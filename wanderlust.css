@@ -1,0 +1,76 @@
+body {
+    background-color: #ededf0;
+    letter-spacing: 1px;
+}
+
+.main__container {
+    padding: 2%;
+}
+
+.logo {
+    width: 100px;
+}
+
+.navigation-link {
+    float: right;
+    margin-right: 12px;
+}
+
+.navigation--space {
+    margin-right: 20px;
+}
+
+a {
+    font-family: Roboto;
+    font-weight: 500;
+    text-decoration: none;
+    color: #B6BCC8;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 72px;
+}
+
+.hero {
+margin: 15%;
+}
+
+.gallery--container {
+    height: 500px;
+    background-color: black;
+}
+
+.form__input {
+    padding: 2% 0 2% 2.5%;
+    border-width: 0.5px;
+    background-color: #ededf0;
+    border: 0.5px solid #B6BCC8;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+#form--place {
+    width: 30%;
+    border-radius: 4px 0 0 4px;
+    margin-right: -6px;
+}
+
+#form--person {
+    margin-left: -6px;
+}
+
+button {
+    margin-left: -6px;
+    padding: 2% 5%;
+    border-width: 0.5px;
+    background-color: #4887e0;
+    border: 0.5px solid #4887e0;
+    font-size: 15px;
+    font-weight: 100;
+    text-align: center;
+    border-radius: 0 4px 4px 0;
+    color: #ffffff;
+}
